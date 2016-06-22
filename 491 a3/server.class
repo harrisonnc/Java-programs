@@ -1,0 +1,13 @@
+Êþº¾   3 [
+  .	  /	  0	  1 2	  3	  4	 5 6 7
+ 	 . 8
+ 	 9 :
+  ;
+ 	 <
+ = >	 ? @	 ? A	 ? B
+  C
+  D E F G buffer_size I counter packet_data Ljava/lang/String; merged [B forbidden_content blocked Z done <init> ()V Code LineNumberTable finish forward (Lpacket;)V StackMapTable 
+SourceFile server.java $ %       youtube    # " H I J java/lang/StringBuilder server received:  K L java/lang/String $ M N O P Q R S T  U  V  W X Y Z -Congratulations, you passed the firewall !!!  server java/lang/Object java/lang/System out Ljava/io/PrintStream; append -(Ljava/lang/String;)Ljava/lang/StringBuilder; ([B)V toString ()Ljava/lang/String; java/io/PrintStream println (Ljava/lang/String;)V packet total_length frag_offset data charAt (I)C contains (Ljava/lang/CharSequence;)Z !                                       ! "     # "     $ %  &   V     &*· *èµ *µ **´ ¼µ *µ *µ ±    '             
+      %   ( %  &   @     $² » 	Y· 
+¶ » Y*´ · ¶ ¶ ¶ ±    '   
+     #   ) *  &   ˜     O*´ š J=+´ ¢ *´ +´ `+´ ¶ ‘T„§ÿá» Y*´ · *´ ¶ ™ ² ¶ *µ ±±    '   & 	        %  +   @ " H $ M ( N * +    ü 	ú !!   ,    -
